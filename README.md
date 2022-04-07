@@ -16,5 +16,5 @@
 # DEMO 
 
 <h1 align="center">
-    <img src="./images/print.png">
+    <img src="./Images/print.png">
 </h1>
